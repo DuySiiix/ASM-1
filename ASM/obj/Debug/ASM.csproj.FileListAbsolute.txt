@@ -1,0 +1,7 @@
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM\ASM\bin\Debug\ASM.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM\ASM\bin\Debug\ASM.exe
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM\ASM\bin\Debug\ASM.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM\ASM\obj\Debug\ASM.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM\ASM\obj\Debug\ASM.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM\ASM\obj\Debug\ASM.exe
+C:\Users\ADMIN\OneDrive\Desktop\Progaming\ASM\ASM\obj\Debug\ASM.pdb
